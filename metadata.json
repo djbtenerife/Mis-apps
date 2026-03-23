@@ -1,0 +1,5 @@
+{
+  "name": "Timer de trabajo",
+  "description": "A clean, minimalist stopwatch with start/stop, reset, and copy-to-clipboard functionality.",
+  "requestFramePermissions": []
+}
